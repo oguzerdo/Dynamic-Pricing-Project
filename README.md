@@ -27,7 +27,7 @@ Dolayısıyla kullanıcılar kendilerine göre ödemeyi göze aldıkları miktar
 
 ## Data
 
-- Data: Some data about website clicks, purchase and visiting.
+- Data: Some data about game company.
 
 # Files
 
